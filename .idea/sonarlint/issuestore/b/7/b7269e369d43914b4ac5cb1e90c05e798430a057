@@ -1,0 +1,15 @@
+
+…
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(“¾›·8¿™€æ°2J$162e3f0d-5a14-4dd2-b8fe-9f52e31d013e
+ƒ	java:S125
+"<This block of commented-out lines of code should be removed.(ñÿÄ¬úÿÿÿÿ8Ã™€æ°2J$25bfea3a-1b76-49f3-abd4-ccb9b39d2cd4
+[
+java:S1128"9Remove this unused import 'jm.task.core.jdbc.model.User'.(õ„­³úÿÿÿÿ8ü™æ°2
+[
+java:S1128"9Remove this unused import 'org.hibernate.SessionFactory'.(ñ¦«¬þÿÿÿÿ8ü™æ°2
+y
+java:S1128"WRemove this unused import 'org.hibernate.boot.registry.StandardServiceRegistryBuilder'.(ƒ©¡üøÿÿÿÿ8ü™æ°2
+Y
+java:S1128"<Remove this unused import 'org.hibernate.cfg.Configuration'.(ö¬ä8ý™æ°2
+d
+java:S1128"BRemove this unused import 'org.hibernate.service.ServiceRegistry'.(œ¿ßçüÿÿÿÿ8ý™æ°2
